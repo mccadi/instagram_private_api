@@ -1,0 +1,1 @@
+double utcNow() => DateTime.now().toUtc().millisecondsSinceEpoch / 1000.0;
